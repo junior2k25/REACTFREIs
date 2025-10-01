@@ -1,0 +1,23 @@
+.ex2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    input{
+        margin: 10px;
+        width: 100px;
+        height: 30px;
+        border-radius: 5px;
+        border: 1px solid black;
+        text-align: center;
+    }
+    button{
+        width: 100px;
+        height: 30px;
+        border-radius: 5px;
+        border: 1px solid black;
+        background-color: lightblue;
+        cursor: pointer;
+    }
+}
